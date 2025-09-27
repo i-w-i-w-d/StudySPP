@@ -3,7 +3,35 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.14.36511.14
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Hm.1.20", "Hm1.20\Hm1.20.vcxproj", "{28B3F1ED-ACA0-4FD2-B36F-F9D5573B7BFC}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Hm.1.13", "Hm.1.12\Hm.1.12.vcxproj", "{ACF10D80-D067-4AD6-806C-B70036051D01}"
+EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{28B3F1ED-ACA0-4FD2-B36F-F9D5573B7BFC}.Debug|x64.ActiveCfg = Debug|x64
+		{28B3F1ED-ACA0-4FD2-B36F-F9D5573B7BFC}.Debug|x64.Build.0 = Debug|x64
+		{28B3F1ED-ACA0-4FD2-B36F-F9D5573B7BFC}.Debug|x86.ActiveCfg = Debug|Win32
+		{28B3F1ED-ACA0-4FD2-B36F-F9D5573B7BFC}.Debug|x86.Build.0 = Debug|Win32
+		{28B3F1ED-ACA0-4FD2-B36F-F9D5573B7BFC}.Release|x64.ActiveCfg = Release|x64
+		{28B3F1ED-ACA0-4FD2-B36F-F9D5573B7BFC}.Release|x64.Build.0 = Release|x64
+		{28B3F1ED-ACA0-4FD2-B36F-F9D5573B7BFC}.Release|x86.ActiveCfg = Release|Win32
+		{28B3F1ED-ACA0-4FD2-B36F-F9D5573B7BFC}.Release|x86.Build.0 = Release|Win32
+		{ACF10D80-D067-4AD6-806C-B70036051D01}.Debug|x64.ActiveCfg = Debug|x64
+		{ACF10D80-D067-4AD6-806C-B70036051D01}.Debug|x64.Build.0 = Debug|x64
+		{ACF10D80-D067-4AD6-806C-B70036051D01}.Debug|x86.ActiveCfg = Debug|Win32
+		{ACF10D80-D067-4AD6-806C-B70036051D01}.Debug|x86.Build.0 = Debug|Win32
+		{ACF10D80-D067-4AD6-806C-B70036051D01}.Release|x64.ActiveCfg = Release|x64
+		{ACF10D80-D067-4AD6-806C-B70036051D01}.Release|x64.Build.0 = Release|x64
+		{ACF10D80-D067-4AD6-806C-B70036051D01}.Release|x86.ActiveCfg = Release|Win32
+		{ACF10D80-D067-4AD6-806C-B70036051D01}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
