@@ -6,6 +6,7 @@ MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Hm.1.20", "Hm1.20\Hm1.20.vcxproj", "{28B3F1ED-ACA0-4FD2-B36F-F9D5573B7BFC}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Hm.1.13", "Hm.1.13\Hm.1.13.vcxproj", "{7362C936-1B95-4B14-856A-782902B4B115}"
+
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -31,6 +32,7 @@ Global
 		{7362C936-1B95-4B14-856A-782902B4B115}.Release|x64.Build.0 = Release|x64
 		{7362C936-1B95-4B14-856A-782902B4B115}.Release|x86.ActiveCfg = Release|Win32
 		{7362C936-1B95-4B14-856A-782902B4B115}.Release|x86.Build.0 = Release|Win32
+
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
